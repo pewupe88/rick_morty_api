@@ -4,6 +4,10 @@
   "main": "server.js",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "~20.2.2"
+    "@hapi/hapi": "~20.2.2",
+    "graphi": "~9.0.2"
+  },
+  "engines": {
+    "node": ">=14"
   }
 }
