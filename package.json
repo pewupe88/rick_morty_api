@@ -1,0 +1,6 @@
+{
+  "name": "rick_morty_api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "ISC"
+}
