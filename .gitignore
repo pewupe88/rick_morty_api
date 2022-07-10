@@ -1,2 +1,5 @@
-*.iml
 .idea
+node_modules
+
+*.iml
+package-lock.json

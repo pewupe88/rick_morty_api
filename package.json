@@ -2,5 +2,8 @@
   "name": "rick_morty_api",
   "version": "1.0.0",
   "main": "server.js",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "~20.2.2"
+  }
 }
